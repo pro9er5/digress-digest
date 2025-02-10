@@ -19,5 +19,6 @@ author:              "Phil & Jackie"
 #  path: rss-feed.xml
 hide_post_share: true
 hide_related_posts: true
-github.url: https://github.com/pro9er5/digress-digest/
-baseurl: https://pro9er5.github.io/digress-digest/
+github:
+  url: https://github.com/pro9er5/digress-digest
+baseurl: https://pro9er5.github.io/digress-digest
