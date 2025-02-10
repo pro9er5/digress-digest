@@ -2,5 +2,5 @@
 layout: category
 title: Interesting Facts
 category: facts
-permalink: /digress-digest/facts
+permalink: /facts
 ---
