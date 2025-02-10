@@ -7,6 +7,8 @@ author: Phil Rogers
 image: pregap_dc.png
 ---
 
+## The Turning Point
+
 Early in 2023 we found ourselves in a rut. On paper, everything
 was going our way. We had jobs that appeared to be the pinnal of careers
 successfully navigated, our kids were enrolled in an independent school
@@ -23,6 +25,8 @@ ever increasing withdrawal of attention. Not all was lost because we had one
 last card up our sleeves, Jackie and I had cultivated a relationship built on
 a foundation of aggressive levels of transparency and communication. We did
 what we always did when there was a problem we started talking.
+
+## Making a Plan
 
 Identifying that you need a change in your life is one thing, but actually
 doing something about it is much harder. One tool we put to work here were a 
