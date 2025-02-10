@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /digress-digest/about
+permalink: /about
 ---
 
 Simply put, this is a travel blog. It contains stories of our adventures
