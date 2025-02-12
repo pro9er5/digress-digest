@@ -3,6 +3,7 @@ layout: post
 title: "Starting Somewhere"
 date: 2025-02-08 13:41:08 -0500
 categories: travel, gap year, the grind
+tags: [digression,planning,change,preparation]
 author: Phil Rogers
 image: pregap_dc.png
 ---
@@ -69,14 +70,29 @@ the gap year. That all said, calling a full-stop on life as we knew it to embrac
 year of travel and exploration opened up a lot of questions. What we knew we had decide
 first was a start date. This start date was really important for holding ourselves
 accountable to making this path a reality. So, we decided on the beginning of the
-next school year. For our family we set out gap year lift off to 10 September 2023.
+next school year---we set out gap year kickoff to 10 September 2023.
 
-This gave us about 6 months to start working our way down the following todo list:
+This gave us about six months to start working our way down the following todo list:
 
 - Disengage from work---leave of absence, remote work agreements, quitting?
-- Figure out home school for our rising 1st and 4th grade kids
+- Figure out homeschool for our rising 1st and 4th grade kids
 - Move out of our home
 - Put what things we would hold on to into storage
 - Plan where we would go and how we would get there
 - Budget the the next year
 - Figure out what to do with the dog
+
+## What Happened Next
+
+What happened next after we decided on a gap year and set our start date was
+reality. Six months is a long time and we had a lot to do and pacing out all
+these steps is best done with steady progress. In the posts to come we will go
+into more detail on each of these planning topics. That said, what happened next
+for family was that we had planted a seed, and this seed would gradually grow
+into something that would result in the best year of our lives. With every
+measure of progress made toward starting our gap year, the more engaged we became
+as a family. We started talking about the future with wonder and excitement. We
+felt a growing sense of liberation from the tracks of templated goals and dreams,
+and started to take more creative liberties with our dreams. It took time, and
+Jackie and I would regularly ask each other if "we were sure about this?", but
+the gravity of this adventure was impossible to escape.
