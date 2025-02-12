@@ -73,10 +73,10 @@ next school year. For our family we set out gap year lift off to 10 September 20
 
 This gave us about 6 months to start working our way down the following todo list:
 
-- [ ] Disengage from work---leave of absence, remote work agreements, quitting?
-- [ ] Figure out home school for our rising 1st and 4th grade kids
-- [ ] Move out of our home
-- [ ] Put what things we would hold on to into storage
-- [ ] Plan where we would go and how we would get there
-- [ ] Budget the the next year
-- [ ] Figure out what to do with the dog
+- Disengage from work---leave of absence, remote work agreements, quitting?
+- Figure out home school for our rising 1st and 4th grade kids
+- Move out of our home
+- Put what things we would hold on to into storage
+- Plan where we would go and how we would get there
+- Budget the the next year
+- Figure out what to do with the dog
