@@ -35,9 +35,8 @@ Most of our time spent physically together as a family was tarnished by an
 ever increasing withdrawal of attention. There was always a lot of love and plenty
 of temporary reprieves from the day-to-day that took the form of family camping and
 travel---though reprieve is not the same thing as release and recovery. The majority
-of our time was still spent on our custom-built hamster wheel, and no amount of
-customization would make such a device make the experience of being on it feel any
-less Sisyphean.
+of our time was still spent on personalized hamster wheel, and no amount of
+retail therapy, or weekend getaways was helping make life feel any less Sisyphean.
 
 Not all was lost. Jackie and I have always worked hard to have a relationship based
 on friendship, trust, and communication. This relationship we have is built for
