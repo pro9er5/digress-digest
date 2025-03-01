@@ -103,13 +103,17 @@ unknown. Whatever path we chose would fundamentally shape our gap year experienc
 influencing everything from our travel patterns to our daily routines to our
 family dynamics.
 
-Ultimately, we chose options 1.5 and 3. Jackie is an educator and her employer
+Ultimately, we chose options 1.5 and 3. Jackie is an educator, and her employer
 allowed her to take an unpaid leave of absence for one year and rejoin her district
-as a full time teacher upon her return. I took the approach to negotiate an contract
-for part-time independent consulting starting at time we kicked off our gap year.
-I had a few ongoing projects and a technology I had invented that I could help support
-remotely, while also working on a patent. Never did I feel stressed with this level
-of involvement and it gave us a little financial cushion. 
+as a full time teacher upon her return. This worked out because we would be homeschooling
+our kiddos over the gap year, and having a fulltime educator dedicated to keeping
+us all on track with curriculum was clutch.
+
+I  negotiated a contract
+for part-time independent consulting with my employer starting at date we kicked
+off our gap year. I had a few ongoing projects and a technology I had invented that
+I could help support remotely, while also working on a patent. Never did I feel
+stressed with this level of involvement and it gave us a little financial cushion. 
 
 Sometimes the hardest
 part isn't choosing between good and bad options, but between different versions
